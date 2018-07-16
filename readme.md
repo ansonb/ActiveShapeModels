@@ -1,20 +1,20 @@
-dependencies
+Dependencies
 -----------------
 1) python3
 
-setup
+Setup
 ---------
-pip install scipy numpy json python-opencv
+pip install scipy numpy json opencv-python
 
-training
+Training
 -----------
-cd algorithm
-python train.py
+1) cd algorithm
+2) python train.py
 
-testing
+Testing
 ---------
-cd algorithm
-python test.py
+1) cd algorithm
+2) python test.py
 
 TODO
 --------

@@ -1,0 +1,6 @@
+model/
+data/
+notes.txt
+!model/model.json
+!data/prepared_data/
+!data/features_neighbours_index.json

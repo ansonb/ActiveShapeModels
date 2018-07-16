@@ -1,6 +1,6 @@
 model/
 data/
-notes.txt
+notes
 !model/model.json
-!data/prepared_data/
+!data/prepared_data/*
 !data/features_neighbours_index.json

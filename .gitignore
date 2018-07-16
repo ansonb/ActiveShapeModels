@@ -1,6 +1,7 @@
 model/
 data/
 notes
+notes~
 !model/model.json
 !data/prepared_data/*
 !data/features_neighbours_index.json
